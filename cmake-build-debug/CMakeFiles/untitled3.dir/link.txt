@@ -1,0 +1,1 @@
+/usr/bin/c++ -g CMakeFiles/untitled3.dir/main.cpp.o CMakeFiles/untitled3.dir/ClinicManagementSystem.cpp.o CMakeFiles/untitled3.dir/Billing.cpp.o CMakeFiles/untitled3.dir/Appointment.cpp.o CMakeFiles/untitled3.dir/Patient.cpp.o -o untitled3 
