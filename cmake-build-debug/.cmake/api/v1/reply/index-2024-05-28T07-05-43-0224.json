@@ -4,14 +4,14 @@
 		"generator" : 
 		{
 			"multiConfig" : false,
-			"name" : "Ninja"
+			"name" : "Unix Makefiles"
 		},
 		"paths" : 
 		{
-			"cmake" : "/home/os/Downloads/CLion-2024.1.1/clion-2024.1.1/bin/cmake/linux/x64/bin/cmake",
-			"cpack" : "/home/os/Downloads/CLion-2024.1.1/clion-2024.1.1/bin/cmake/linux/x64/bin/cpack",
-			"ctest" : "/home/os/Downloads/CLion-2024.1.1/clion-2024.1.1/bin/cmake/linux/x64/bin/ctest",
-			"root" : "/home/os/Downloads/CLion-2024.1.1/clion-2024.1.1/bin/cmake/linux/x64/share/cmake-3.28"
+			"cmake" : "/snap/clion/275/bin/cmake/linux/x64/bin/cmake",
+			"cpack" : "/snap/clion/275/bin/cmake/linux/x64/bin/cpack",
+			"ctest" : "/snap/clion/275/bin/cmake/linux/x64/bin/ctest",
+			"root" : "/snap/clion/275/bin/cmake/linux/x64/share/cmake-3.28"
 		},
 		"version" : 
 		{
@@ -26,7 +26,7 @@
 	"objects" : 
 	[
 		{
-			"jsonFile" : "codemodel-v2-9d85daf81a08d23225a8.json",
+			"jsonFile" : "codemodel-v2-b2790415614963a7e7d7.json",
 			"kind" : "codemodel",
 			"version" : 
 			{
@@ -35,7 +35,7 @@
 			}
 		},
 		{
-			"jsonFile" : "cache-v2-8abdc11f58f6252af50a.json",
+			"jsonFile" : "cache-v2-c2b203c149b3e086101b.json",
 			"kind" : "cache",
 			"version" : 
 			{
@@ -44,7 +44,7 @@
 			}
 		},
 		{
-			"jsonFile" : "cmakeFiles-v1-d4ac873fa1846c2eed67.json",
+			"jsonFile" : "cmakeFiles-v1-ed1fc6b23081d77e3ec6.json",
 			"kind" : "cmakeFiles",
 			"version" : 
 			{
@@ -66,7 +66,7 @@
 	{
 		"cache-v2" : 
 		{
-			"jsonFile" : "cache-v2-8abdc11f58f6252af50a.json",
+			"jsonFile" : "cache-v2-c2b203c149b3e086101b.json",
 			"kind" : "cache",
 			"version" : 
 			{
@@ -76,7 +76,7 @@
 		},
 		"cmakeFiles-v1" : 
 		{
-			"jsonFile" : "cmakeFiles-v1-d4ac873fa1846c2eed67.json",
+			"jsonFile" : "cmakeFiles-v1-ed1fc6b23081d77e3ec6.json",
 			"kind" : "cmakeFiles",
 			"version" : 
 			{
@@ -86,7 +86,7 @@
 		},
 		"codemodel-v2" : 
 		{
-			"jsonFile" : "codemodel-v2-9d85daf81a08d23225a8.json",
+			"jsonFile" : "codemodel-v2-b2790415614963a7e7d7.json",
 			"kind" : "codemodel",
 			"version" : 
 			{
